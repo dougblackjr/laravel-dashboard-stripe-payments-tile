@@ -19,9 +19,9 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/console": "^8.0",
-        "illuminate/pagination": "^8.0",
-        "illuminate/support": "^8.0",
+        "illuminate/console": "^9.0",
+        "illuminate/pagination": "^9.0",
+        "illuminate/support": "^9.0",
         "spatie/laravel-dashboard": "^2.0",
         "stripe/stripe-php": "^7.46"
     },
